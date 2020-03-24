@@ -1,5 +1,6 @@
-Community playbook framework
-1 *WHY*: why do we exist
+Community playbook framework:
+
+1. *WHY*: why do we exist
 2. *WHO*: who is involved. who is on the team, ambassadors, local leaders
 3. *HOW*: 
     how is the programming done, how do we build a community
