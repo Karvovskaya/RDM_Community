@@ -6,3 +6,6 @@
 :surfer: The broad goal of the RDM community is to shift the scholarly culture at the VU towards more transparent, reproducible research based on FAIR principles. Culture change has to be driven from the grassroots via initiatives supported at the top. Community
 culture ensures a mix of top-down and bottom-up approaches; it drives up engagement and
 makes people care about the shared values of the community.
+
+We have a website https://rdm-community.labs.vu.nl/
+There is also information available at the VU Library website: https://ub.vu.nl/en/university-library-for-researchers/research-data-support/rdm-community/index.aspx
